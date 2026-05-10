@@ -8,14 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>
-        UAC-Unified Automation VNDNER CNC Management System
+        UAC Vietnam-Unified Automation VNDNER CNC Management System
     </title>
     <meta property="og:title" content="UAC - Unified Automation VNDNER CNC Management System">
 <meta property="og:description" content="Hệ thống quản lý CNC tự động hợp nhất cho doanh nghiệp cơ khí.">
 
 <meta property="og:url" content="https://uac-vietnam.com">
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
 
     <style>
 
@@ -245,6 +247,17 @@
         }
 
     </style>
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "UAC Vietnam",
+  "url": "https://uac-vietnam.com",
+  "logo": "https://uac-vietnam.com/logo.png",
+  "description": "Unified Automation VNDNER CNC Management System"
+}
+</script>
 
 </head>
 <body>
@@ -259,13 +272,12 @@
             <!-- LEFT -->
             <div class="col-lg-6">
 
-                <h1>
-                    UAC - Unified Automation <br>
-                    VNDNER CNC Management System
-                </h1>
+               <h1>
+UAC Vietnam - Unified Automation VNDNER CNC Management System
+</h1>
 
                 <p>
-                    Hệ thống quản lý CNC tự động - hợp nhất giúp doanh nghiệp cơ khí 
+                   Hệ thống quản lý CNC tự động - hợp nhất giúp doanh nghiệp cơ khí 
                     quản lý <span class="highlight">đồng bộ - chính xác - xuyên suốt</span> 
                     từ khâu báo giá, quản lý PO, lập trình CNC, triển khai sản xuất, 
                     kiểm soát chất lượng đến giao hàng.
@@ -627,7 +639,7 @@
     <div class="container">
 
         <h4>
-            UAC - Unified Automation VNDNER CNC Management System
+            UAC Vietnam- Unified Automation VNDNER CNC Management System
         </h4>
 
         <p class="mt-3 mb-0">
