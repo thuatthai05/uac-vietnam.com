@@ -8,8 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>
-        UAC - Unified Automation VNDNER CNC Management System
+        UAC-Unified Automation VNDNER CNC Management System
     </title>
+    <meta property="og:title" content="UAC - Unified Automation VNDNER CNC Management System">
+<meta property="og:description" content="Hệ thống quản lý CNC tự động hợp nhất cho doanh nghiệp cơ khí.">
+
+<meta property="og:url" content="https://uac-vietnam.com">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
